@@ -2,7 +2,7 @@
 
 <h3> About Project </h3>
   
-  <img src="">
+  <img src="Screen Shot 2021-04-23 at 1.10.57 PM.png">
   <p> This is an interactive pacmen exercise that populates pacmen on the screen per the users click of a mouse. Then when read, the user can click play and the pacmen will move around, bouncing off the walls when the limits of the screen are reached. A starter code was provided and the rest we coded on our own using javascript, css, and html.</p> 
 
 <h3> Installation </h3>
